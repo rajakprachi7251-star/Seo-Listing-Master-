@@ -1,3 +1,8 @@
+import os
+from openai import OpenAI
+
+# Will use OPENAI_API_KEY from environment
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 import streamlit as st
 import openai
 import json
