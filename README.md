@@ -18,10 +18,6 @@ AI-powered product listing generator for e-commerce platforms
 - 💾 **Easy Export** - Download listings as text files
 - 🎨 **Beautiful UI** - Streamlit-based responsive interface
 
-## 🚀 Try It Live
-
-**Live Demo:** [https://seo-listing-master.streamlit.app](https://seo-listing-master.streamlit.app)
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** Streamlit 1.28.1
